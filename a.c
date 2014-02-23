@@ -12,3 +12,5 @@ add D5
 add D6
 add D7
 add D8
+add D9
+add D10
