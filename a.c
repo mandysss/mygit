@@ -8,3 +8,5 @@ add D2
 add C5
 add D3
 add D4
+add D5
+add D6
