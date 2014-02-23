@@ -6,4 +6,4 @@ add D1
 add C4
 add D2
 add C5
-add D3
+add D3add C6
