@@ -18,3 +18,9 @@ add C12
 add C13
 add C14
 add C15
+add D5
+add D6
+add D7
+add D8
+add D9
+add D10
